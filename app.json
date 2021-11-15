@@ -20,7 +20,7 @@
       "supportsTablet": true
     },
     "android": {
-      "googleServicesFile": "./g_config/google-services.json",
+      "googleServicesFile": "./google-services.json",
       "useNextNotificationsApi": true,
       "versionCode": 1,
       "adaptiveIcon": {
